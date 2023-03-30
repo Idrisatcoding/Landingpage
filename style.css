@@ -1,0 +1,107 @@
+body{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background-color: aliceblue;
+ 
+}
+.heading{
+    background-color:brown;
+    
+    color: cadetblue;
+    padding: left 2px;
+    font-size: xx-large;
+}
+
+.firstsec{
+    padding: 30px;
+    margin: 2%;
+}
+.heading2{
+    background-color: beige;
+}
+.field1{
+    text-align: center;
+    background-image: url(image/pexels-karolina-grabowska-4491459.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 200px;
+    margin: 20px;
+    border-radius: 50px;
+
+
+   
+}
+a:hover, a:visited{
+    color: black;
+    background-color: cadetblue;
+    
+ 
+
+}
+a:link, a:active{
+    background-color: white;
+    padding: 10px;
+    color: purple;
+    text-decoration: none;
+    display: inline-block;
+
+}
+.menus{
+    background-color: azure;
+    padding: 2px;
+    color: whitesmoke;
+    text-decoration: none;
+    float: right;
+
+}
+
+.sechead{
+    text-align: center;
+    font-size: xx-large;
+    color: darkcyan;
+    background-color: black;
+    padding-top: 10px;
+    
+}
+.sechead2{
+   
+    color: white;
+       
+}
+.divhead1{
+    font-size: xx-large;
+    float: left;
+    background-color: black;
+    color: beige;
+    margin-left: 37px; 
+   
+}
+.starting{
+   background-image: url(image/pexels-kuncheek-210990.jpg);
+   background-attachment: fixed;
+   background-size: cover;
+   padding-top: 100px;
+   
+}
+
+
+li{
+    padding:15px;
+    float: left;
+    background-color: cadetblue;
+    margin-top: 5px;
+
+}
+.heading3{
+    margin-top: 35%;
+    color: black;
+    margin-left: 37px;
+    
+}
+.field{
+    margin-right: 85%;
+    border-radius: 10%;
+}
+    
+
+  
